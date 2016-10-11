@@ -9,7 +9,7 @@ I used the follwong [Guide](https://developer.xamarin.com/guides/cross-platform/
 
 ## Installation
 
-Open Project in Xamarin and build it. The output binary is under the `build` folder.
+Open Project in Xamarin and build it. The output binary is under the `bin` folder.
 
 ## Code Example
 
